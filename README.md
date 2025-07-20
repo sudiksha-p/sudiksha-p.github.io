@@ -1,1 +1,17 @@
 # sudiksha-p.github.io
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>MedTermMadeEasy</title>
+        <style>
+            body {
+                background-color: rgb(159,198,227,255);
+            }
+
+        </style>
+    </head>
+        <body>
+            <h1 style="color: #26709f;">MedTermMadeEasy</h1>
+    
+        </body>
+</html>
